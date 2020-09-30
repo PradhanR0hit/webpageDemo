@@ -1,0 +1,119 @@
+#h1{
+    color: rgb(6, 36, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: darkgoldenrod 10px solid;
+    border-radius: 50px;
+    font-size: 100px;
+    background-color: aquamarine;
+
+
+}
+#mar{
+    color: rgb(10, 40, 43);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+#p{
+    color:blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#body{
+    color: rgb(107, 220, 248);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(91, 105, 121);
+    font-size: 27px;
+}
+#cen{
+    color: darkblue;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#d1{
+    padding-top: 50px;
+}
+#d2{
+    padding-top: 0px;
+}
+#d3{
+    padding-left: 500px;
+    background-color: lightcoral;
+}
+#tab{
+    border: 10px solid yellowgreen;
+    border-radius: 5px;
+    border-collapse: collapse;
+    border-style: ridge;
+    text-align: center;  
+    color: brown;
+    background-color: indigo;  
+}
+#d4{
+    padding-left: 500px;
+    color: blanchedalmond;
+    border: 5px solid skyblue;
+    background-color: rgb(17, 151, 204);
+}
+#d5{
+    color: black;
+}
+#a1{
+    background: #3B5998;
+    color: white;
+}
+#a2{
+    background: #55ACEE;
+    color: white;
+
+}
+#a3{
+    background: #dd4b39;
+    color: white;
+}
+#a4{
+    background: #125688;
+    color: white;
+}
+#h{
+    text-align: center;
+    color: thistle;
+    background-color: wheat;
+    font-size: 75px;
+}
+#ad{
+    text-align: center;
+    color: rgb(15, 7, 15);
+    background-color: rgb(199, 192, 180);
+    font-size: 45px;
+
+}
+
+#body1{
+    background-color: teal;
+}
+#h3{
+    background-color: thistle;
+    color: gray;
+    text-align: center;
+    font-size: 80px;
+}
+#body2{
+    background-color: rgb(82, 51, 133);
+}
+#h4{
+    text-align: center;
+    color: rgb(52, 85, 3);
+    font-size: 100px;
+    padding-top: 180px;
+}
+#body3{
+    background-color: khaki;
+}
+
+
+
